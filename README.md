@@ -18,8 +18,8 @@ e agrupar todos os @media para conseguir encontrá-los e manipulá-los mais faci
 
 Resultado das validações.
 
-Da primeira vez que validei surgiram alguns problemas. A ferramenta de validação dizia que <h4> e <p>
-não poderiam ser filhos de <span>, então substituí os spans da div.tour por <div>. 
+Da primeira vez que validei surgiram alguns problemas. A ferramenta de validação dizia que h4 e p
+não poderiam ser filhos de span, então substituí os spans da div.tour por div. 
 Também recomendaram trocar as barras inversas que estavam na src das img.
 
 -->https://validator.w3.org/nu/
